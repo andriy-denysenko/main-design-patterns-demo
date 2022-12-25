@@ -1,2 +1,2 @@
-# main-design-patterns-demo
-Demo code for main design patterns
+# 7 Most Popular Design Patterns Demo
+Demo code for 7 most popular design patterns (in Java)
